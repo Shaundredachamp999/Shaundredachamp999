@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Shaundredachamp999
-- 👀 I’m interested in coding and software engineer 
+- 👀 I’m interested in coding and software engineer
+- ziao 
 - 🌱 I’m currently learning AlX
 - 💞️ Still a complete beginner 
 - Always willing to learn new information 
